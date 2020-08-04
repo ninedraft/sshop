@@ -1,0 +1,7 @@
+.vscode
+.idea
+*.exe
+
+vendor/
+bin/
+tmp/
